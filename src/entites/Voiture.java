@@ -10,7 +10,7 @@ public class Voiture {
 
 			
 		public Voiture(String marque, String vitesse, String puissance) {
-			this.marque = marque;
+			this.marque = marque; // attribut de la classe, moi
 			this.vitesse = vitesse;
 			this.puissance = puissance;
 			
